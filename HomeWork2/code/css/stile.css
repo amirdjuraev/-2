@@ -1,0 +1,214 @@
+.parent {
+    border: 2px solid red;
+    height: 500px;
+    width: 1410px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.child {
+    border: 2px solid green;
+    width: 100px;
+    height: 50PX;
+}
+
+.parent1 {
+    border: 2px solid red;
+    height: 500px;
+    width: 1410px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.child1 {
+    border: 2px solid green;
+    width: 100px;
+    height: 50PX;
+}
+
+.parent2 {
+    border: 2px solid red;
+    height: 500px;
+    width: 1410px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.child2 {
+    border: 2px solid green;
+    width: 100px;
+    height: 50PX;
+}
+
+.parent3 {
+    border: 2px solid red;
+    height: 500px;
+    width: 1410px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.child3 {
+    border: 2px solid green;
+    width: 100px;
+    height: 50PX;
+}
+
+.parent4 {
+    border: 2px solid red;
+    height: 500px;
+    width: 1410px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.child4 {
+    border: 2px solid green;
+    width: 100px;
+    height: 50PX;
+}
+
+.parent5 {
+    border: 2px solid red;
+    height: 500px;
+    width: 1410px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.child5 {
+    border: 2px solid green;
+    width: 100px;
+    height: 50PX;
+}
+
+.parent6 {
+    border: 2px solid red;
+    height: 500px;
+    width: 1410px;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+}
+
+.child6 {
+    border: 2px solid green;
+    width: 100px;
+    height: 50PX;
+}
+
+.parent7 {
+    border: 2px solid red;
+    height: 500px;
+    width: 1410px;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: flex-start;
+}
+
+.child7 {
+    border: 2px solid green;
+    width: 100px;
+    height: 50PX;
+}
+
+.parent8 {
+    border: 2px solid red;
+    height: 500px;
+    width: 1410px;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.child8 {
+    border: 2px solid green;
+    width: 100px;
+    height: 50PX;
+}
+
+.parent9 {
+    border: 2px solid red;
+    height: 500px;
+    width: 1410px;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-start;
+    align-items: flex-end;
+}
+
+.child9 {
+    border: 2px solid green;
+    width: 100px;
+    height: 50PX;
+}
+
+.parent10 {
+    border: 2px solid red;
+    height: 500px;
+    width: 1410px;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: flex-end;
+}
+
+.child10 {
+    border: 2px solid green;
+    width: 100px;
+    height: 50PX;
+}
+
+.parent11 {
+    border: 2px solid red;
+    height: 500px;
+    width: 1410px;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: flex-start;
+    align-items: flex-end;
+}
+
+.child11 {
+    border: 2px solid green;
+    width: 100px;
+    height: 50PX;
+}
+
+.parent12 {
+    border: 2px solid red;
+    height: 500px;
+    width: 1410px;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.child12 {
+    border: 2px solid green;
+    width: 100px;
+    height: 50PX;
+}
+
+.parent13 {
+    border: 2px solid red;
+    height: 500px;
+    width: 1410px;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.child13 {
+    border: 2px solid green;
+    width: 100px;
+    height: 50PX;
+}
